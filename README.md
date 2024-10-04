@@ -9,8 +9,6 @@ environment in a simplified and accessible way.
 
 [apresentacao](https://gamma.app/docs/Politks-Plataforma-para-Simplificacao-de-Informacoes-Politicas-8etlxcftefa7m1p)
 
-![website](./files/politks-web-site.png)
-
 ### Rascunho de ideias
 
 O Politks será uma plataforma, que tem como principal objetivo simplificar a maneira de se obter informações sobre
