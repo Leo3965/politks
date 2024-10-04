@@ -182,5 +182,122 @@ plataforma, você pode implementar um ou mais desses casos de uso para agregar v
    Exemplo: Quando um cidadão assina uma petição na plataforma Politks, sua assinatura é registrada na blockchain,
    garantindo que a contagem e o conteúdo da petição são autênticos e não podem ser alterados.
 
+A integração da blockchain no Politks pode trazer um nível adicional de transparência, segurança e confiança aos
+processos políticos. Esses casos de uso ajudam a combater a corrupção, aumentar a participação cidadã e garantir que as
+informações e decisões políticas sejam acessíveis e verificáveis por todos. Dependendo dos recursos e do foco da
+plataforma, você pode implementar um ou mais desses casos de uso para agregar valor ao Politks.
+
 ------------------------------------------------------------------------
+
+## Caso de uso com IA
+
+1. Análise de Sentimento em Discursos Políticos e Propostas
+   Como Funciona: A IA pode ser usada para analisar o conteúdo de discursos políticos, propostas legislativas,
+   entrevistas e até postagens em redes sociais, identificando o tom (positivo, negativo, neutro) e sentimentos
+   expressos em relação a determinados tópicos.
+   Benefícios:
+   Oferecer aos cidadãos uma análise detalhada de como os políticos se posicionam em relação a temas importantes.
+   Monitorar mudanças de discurso ao longo do tempo.
+   Facilitar a compreensão de como propostas legislativas podem impactar emocionalmente diferentes grupos de eleitores.
+   Exemplo: A plataforma pode mostrar a análise de sentimento dos discursos de um candidato, destacando temas
+   recorrentes e o tom predominante (ex.: "O candidato tem um discurso mais otimista sobre educação, mas crítico em
+   relação à economia").
+
+2. Recomendações Personalizadas de Candidatos e Propostas
+   Como Funciona: Usando sistemas de recomendação, a IA pode sugerir candidatos, propostas e partidos com base nas
+   preferências e histórico de navegação do usuário. Isso pode ser feito analisando o comportamento do usuário, as
+   propostas que ele visualizou e seus interesses em determinados temas.
+   Benefícios:
+   Facilitar a descoberta de candidatos e propostas alinhados com as preferências do usuário.
+   Personalizar o conteúdo para que cada cidadão receba informações mais relevantes.
+   Aumentar o engajamento e a interação na plataforma.
+   Exemplo: A plataforma pode recomendar candidatos com base nas causas que o usuário já demonstrou interesse (ex.: "Com
+   base nas suas visualizações anteriores, você pode estar interessado no candidato X, que apoia políticas de
+   sustentabilidade e educação").
+
+3. Chatbot Inteligente para Perguntas sobre Política
+   Como Funciona: Um chatbot com IA pode responder a perguntas dos usuários sobre temas políticos, eleições, histórico
+   de candidatos e propostas legislativas. O chatbot pode ser treinado para entender linguagem natural (NLP -
+   Processamento de Linguagem Natural), permitindo que os usuários façam perguntas complexas de forma intuitiva.
+   Benefícios:
+   Responder rapidamente a perguntas sobre candidatos, partidos e propostas.
+   Reduzir a barreira de entrada para cidadãos que podem não estar familiarizados com termos políticos complexos.
+   Acessibilidade 24/7 para fornecer informações políticas.
+   Exemplo: Um cidadão pode perguntar ao chatbot: "Qual é o histórico do candidato X em propostas de educação?" e
+   receber uma resposta detalhada, com links para propostas legislativas relacionadas.
+
+4. Predição de Resultados Eleitorais
+   Como Funciona: Usando técnicas de aprendizado de máquina, a IA pode analisar dados históricos de eleições, pesquisas
+   de opinião, interações em redes sociais e outros fatores para prever possíveis resultados de uma eleição ou como uma
+   proposta legislativa pode ser votada.
+   Benefícios:
+   Fornecer aos usuários uma previsão baseada em dados sobre o resultado de eleições.
+   Ajudar candidatos e partidos a ajustar suas estratégias de campanha com base nas previsões.
+   Auxiliar jornalistas e analistas políticos a compreender tendências eleitorais.
+   Exemplo: A IA pode analisar dados de pesquisas de opinião e prever que um candidato tem 70% de chances de ganhar uma
+   eleição com base no desempenho histórico de eleições anteriores e nas tendências atuais.
+
+5. Detecção de Fake News e Desinformação
+   Como Funciona: A IA pode ser usada para identificar notícias falsas e desinformação relacionadas à política,
+   analisando o conteúdo e verificando sua veracidade com base em fontes confiáveis. Algoritmos de NLP podem detectar
+   padrões de linguagem usados em fake news e identificar discrepâncias em notícias publicadas em várias fontes.
+   Benefícios:
+   Proteger os cidadãos contra a disseminação de desinformação política.
+   Promover um ambiente informativo confiável na plataforma.
+   Reduzir o impacto de campanhas de desinformação durante as eleições.
+   Exemplo: Quando um usuário acessa uma notícia política pela plataforma, a IA pode verificar a veracidade das
+   informações e alertar se o conteúdo foi marcado como falso ou manipulado por fontes confiáveis de verificação de
+   fatos.
+
+6. Análise de Tendências em Redes Sociais
+   Como Funciona: A IA pode analisar as redes sociais para identificar tendências políticas emergentes, como tópicos ou
+   candidatos que estão ganhando ou perdendo popularidade. Algoritmos de aprendizado de máquina podem monitorar
+   hashtags, menções e interações de usuários para fornecer insights sobre como o público está reagindo a diferentes
+   temas.
+   Benefícios:
+   Oferecer uma visão em tempo real sobre o que está sendo discutido nas redes sociais em termos políticos.
+   Ajudar candidatos e partidos a ajustar suas mensagens com base nas tendências.
+   Permitir que os cidadãos acompanhem as discussões públicas sobre política.
+   Exemplo: A plataforma pode mostrar que uma proposta legislativa específica está sendo amplamente discutida nas redes
+   sociais, com 60% dos usuários expressando opiniões favoráveis, enquanto 40% se opõem à ideia.
+
+7. Classificação Automática de Propostas Legislativas
+   Como Funciona: A IA pode classificar automaticamente as propostas legislativas de acordo com temas, impacto ou
+   relevância. Isso pode ser feito usando algoritmos de NLP que categorizam as propostas com base no conteúdo e
+   contexto.
+   Benefícios:
+   Facilitar a organização e consulta de propostas por tema (ex.: saúde, educação, segurança).
+   Ajudar os usuários a encontrar propostas que sejam mais relevantes para eles.
+   Agilizar o processo de análise de propostas complexas.
+   Exemplo: Quando uma nova proposta legislativa é apresentada, a IA pode automaticamente categorizá-la como uma
+   proposta relacionada à educação e avaliar seu impacto com base em critérios pré-estabelecidos (ex.: número de
+   cidadãos afetados).
+
+8. Monitoramento de Performance de Políticos
+   Como Funciona: A IA pode analisar o histórico de desempenho de políticos em votações, propostas legislativas e
+   discursos, gerando métricas e relatórios sobre sua atuação. Com base em dados históricos e novos inputs, a IA pode
+   prever como um político pode votar em futuras propostas.
+   Benefícios:
+   Transparência total sobre a atuação dos políticos.
+   Ajuda os cidadãos a entender o histórico de votos e decisões de um candidato ou representante.
+   Criação de perfis detalhados e previsões sobre o comportamento político.
+   Exemplo: Um cidadão pode visualizar o desempenho de um deputado em diferentes votações e receber uma previsão da
+   probabilidade desse deputado apoiar uma nova proposta com base em seu histórico de votos passados.
+
+9. Análise de Políticas Públicas
+   Como Funciona: A IA pode ser usada para analisar o impacto de políticas públicas baseadas em dados históricos e
+   prever seus efeitos futuros. Isso inclui modelagem preditiva para determinar o impacto de uma proposta legislativa em
+   diferentes grupos da sociedade.
+   Benefícios:
+   Auxiliar cidadãos e legisladores a entender as possíveis consequências de uma política pública antes de sua
+   implementação.
+   Facilitar o planejamento de políticas mais eficazes.
+   Ajudar a ajustar ou modificar propostas com base em previsões de impacto.
+   Exemplo: Antes de aprovar uma nova proposta de educação, a IA pode simular seu impacto no sistema educacional,
+   prevendo o número de estudantes que serão afetados e as possíveis melhorias nos índices de alfabetização.
+
+Esses casos de uso mostram como a IA pode transformar o Politks em uma plataforma poderosa e interativa, oferecendo
+informações personalizadas, prevenindo desinformação e promovendo uma maior transparência no ambiente político. A
+aplicação da IA agrega valor ao ajudar os cidadãos a tomar decisões mais informadas e a entender melhor o cenário
+político ao seu redor.
 
